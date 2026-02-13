@@ -64,12 +64,12 @@
 
 
 ---
-
-  <br>
   
+  <br>
+  <center>
   [![Discord](https://img.shields.io/badge/Discord-xradarr1400-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1056916524093870150)
   [![GitHub](https://img.shields.io/badge/Follow_@SirXradar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirXradar)
-  
+  </center>
   <br>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
