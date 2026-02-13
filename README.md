@@ -65,13 +65,6 @@
 
 ---
 
-<div align="center">
-  <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!;Star+if+you+like+it+⭐;Let's+connect+on+Discord!" alt="Typing SVG" />
-  </a>
-</p>
-  
   <br>
   
   [![Discord](https://img.shields.io/badge/Discord-xradarr1400-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1056916524093870150)
