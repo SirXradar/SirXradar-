@@ -1,5 +1,3 @@
-## My Project Logo
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://cdn.discordapp.com/avatars/940585389251510302/a_4732ef55ad8a7e089d9bbc57e42ba545.gif?size=4096" 
        alt="Project Logo" 
